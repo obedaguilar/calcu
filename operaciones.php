@@ -2,10 +2,7 @@
 
 class calculadora 
 {
-	//hacemos funciones estaticas
-	//public es de acceso publico
-	//definimos la funcion con function 
-	//la funcion cuenta con dos parametros $num1,$num2
+
 	public static function sumar($num1,$num2){
 		$sumar=$num1+$num2;
 		return $sumar;
